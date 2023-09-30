@@ -74,7 +74,7 @@ TEMPLATES = [
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # Or the URL where your React app is hosted
+    "http://localhost:3000"
 ]
 
 WSGI_APPLICATION = 'wb_backend.wsgi.application'
